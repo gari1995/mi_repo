@@ -1,1 +1,1 @@
- “Primer fichero en el primer repositorio de Luis Cobo Vázquez y Migul Redondo Casado"
+ “Primer fichero en el primer repositorio de Luis Cobo Vázquez y Miguel Redondo Casado"
